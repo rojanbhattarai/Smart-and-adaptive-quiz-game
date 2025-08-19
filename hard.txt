@@ -1,0 +1,42 @@
+Who developed relativity?
+Newton
+Einstein
+Tesla
+Edison
+B
+Time complexity of binary search?
+O(n)
+O(n^2)
+O(log n)
+O(1)
+C
+OOP feature to reuse code?
+Polymorphism
+Encapsulation
+Inheritance
+Abstraction
+C
+Keyword preventing inheritance?
+final
+sealed
+private
+virtual
+A
+Loop executing at least once?
+for
+while
+do-while
+none
+C
+STL class storing key-value?
+vector
+map
+set
+list
+B
+Runtime polymorphism?
+Function overloading
+Function overriding
+Operator overloading
+Templates
+B

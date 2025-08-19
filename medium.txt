@@ -1,0 +1,42 @@
+System programming language?
+Python
+C++
+HTML
+CSS
+B
+Red Planet?
+Venus
+Mars
+Jupiter
+Saturn
+B
+Keyword for inheritance in C++?
+super
+extends
+inherit
+public
+D
+Operator for logical AND?
+&
+|
+&&
+||
+C
+Constructor is called when?
+Destructor
+Constructor
+Main
+Friend
+B
+Dynamic array in STL?
+vector
+array
+stack
+queue
+A
+Access allowing inheritance but hiding data?
+public
+protected
+private
+friend
+B

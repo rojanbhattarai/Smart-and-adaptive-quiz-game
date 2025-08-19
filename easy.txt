@@ -1,0 +1,42 @@
+What is the capital of France?
+Paris
+London
+Berlin
+Madrid
+A
+2 + 2 = ?
+3
+4
+5
+6
+B
+Which data type stores decimals in C++?
+int
+float
+char
+bool
+B
+Which is smallest prime number?
+0
+1
+2
+3
+C
+Symbol for addition in C++?
++
+-
+*
+/
+A
+Which of these is a loop?
+for
+foreach
+repeat
+looped
+A
+Keyword in C++?
+var
+class
+function
+int
+D
