@@ -29,4 +29,4 @@ The project is implemented using C++ programming language.
 - File Handling: Ensures persistent storage of questions and results.
 - Timer System: Uses conio.h and windows.h to provide a 15-second answering time.
 
-This system is primarily intended for educational purposes, enabling students to practice and evaluate themselves interactively.
+This system is primarily intended for educational purposes, enabling students to practice and evaluate themselves interactively and does the job.
