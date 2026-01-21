@@ -8,8 +8,8 @@ Objectives
 - To implement a time-limited answering system that simulates real test conditions.
   Existing System
 Traditional quiz games or systems generally follow:
-- A fixed set of questions.
-- No adaptation in difficulty level.
+- A fixed set of questions for every try.
+- No adaptation in difficulty level with increase of answers.
 - Minimal interactivity and feedback.
 - Manual score recording.
 
