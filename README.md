@@ -1,5 +1,5 @@
 # Smart-and-adaptive-quiz-game
-this is the adaptive quiz game where the level varies accordingly
+this is the adaptive quiz game where the level varies accordingly as you go up in the level
 Objectives
 - To develop an adaptive quiz game that adjusts difficulty based on user performance.
 - To implement OOP principles like classes, inheritance, operator overloading, and templates in C++.
