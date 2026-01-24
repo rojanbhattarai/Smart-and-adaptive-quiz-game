@@ -14,7 +14,7 @@ Traditional quiz games or systems generally follow:
 - Manual score recording.
 
 These systems fail to motivate learners and do not challenge students based on their capability level.
-4 Proposed System
+4 Proposed System are as follow
 The proposed Smart Adaptive Quiz Game solves the drawbacks of the existing system by introducing:
 - Adaptive difficulty (easy → medium → hard depending on performance).
 - Time-bound answering (15 seconds per question).
